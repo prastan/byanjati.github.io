@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+<head>
+  <link href="vis.min.css" rel="stylesheet" type="text/css" />
+  <script src="vis.min.js"></script>
+  <script type="text/javascript">
+    var nodes = null;
+    var edges = null;
+    var options = null;
+    var network = null;
+
+    // Called when the Visualization API is loaded.
+    function draw() {
+      // create nodes
+      nodes = [
+        {id: 1, label: 'A',group: 'white'},
+        {id: 2, label: 'B',group: 'white'},
+        {id: 3, label: 'Introduction.html',group: 'blue'},
+        {id: 4, label: 'Classes.html',group: 'blue'},
+        {id: 5, label: 'C',group: 'white'},
+        {id: 6, label: 'D',group: 'white'},
+        {id: 7, label: 'Case Studies.html',group: 'blue'},
+        {id: 8, label: 'Inheritance.html',group: 'blue'},
+        {id: 9, label: 'E',group: 'white'},
+        {id: 10,label: 'Inheritance.html',group: 'blue'}
+      ];
+
+      // create edges
+      edges = [
+        {from: 1, to: 2},
+        {from: 1, to: 3},
+        {from: 2, to: 4},
+        {from: 2, to: 5},
+        {from: 2, to: 6},
+        {from: 5, to: 6},
+        {from: 5, to: 7},
+        {from: 6, to: 8},
+        {from: 1, to: 9},
+        {from: 9, to: 10}
+      ];
+
+      // specify options
+      options = {
+        stabilize: false,
+        edges: {
+          width: 1,
+          color: 'gray',
+          length:1
+        },
+        nodes: {
+          // default for all nodes
+          fontFace: 'times',
+          shape: 'box',
+          color: {
+            border: 'orange',
+            background: 'yellow',
+            highlight: {
+              border: 'darkorange',
+              background: 'gold'
+            }
+          }
+        },
+        physics: {
+          barnesHut: {
+            enabled: false,
+            gravitationalConstant: -100,
+            centralGravity: 0,
+            springConstant: 0.04,
+            damping: 0.09
+          }, repulsion: {
+            centralGravity: 0.1,
+            springLength: 50,
+            springConstant: 0.05,
+            nodeDistance: 100,
+            damping: 0.09
+          },
+        }, // this is the correct way to set the length of the springs
+        groups: {
+          white: {
+            color: {
+              border: 'black',
+              background: 'white'
+            },
+            fontColor: 'red',
+            shape: 'circle',
+          }
+        }
+      };
+
+      // create the network
+      var container = document.getElementById('mynetwork');
+      var data = {
+        nodes: nodes,
+        edges: edges
+      };
+      network = new vis.Network(container, data, options);
+    }
+  </script>
+</head>
+<body onload="draw()">
+  <div id="mynetwork"></div>
+</body>
+</html>
