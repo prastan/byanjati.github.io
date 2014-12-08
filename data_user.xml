@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <node> 
-	<title>Introduction</title>
+	<title>Pengenalan</title>
 	<materi>
 		<name>Java Course Intro</name>
 		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
@@ -12,8 +12,188 @@
 		<color>white</color>
 	</materi>
 	<materi>
-		<name>ditambah Fundamental Programming Structures</name>
+		<name>Tipe Data, Variabel dan Konstanta</name>
 		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
 		<color>white</color>
 	</materi>
+	<materi>
+		<name>Variabel Array</name>
+		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Operator, Pernyataan Kondisional, dan Perulangan</name>
+		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<color>white</color>
+	</materi>
+</node>
+<node> 
+	<title>Konsep Dasar Pemrograman Berorientasi Objek</title>
+	<materi>
+		<name>Karakteristik OOP</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Kelas</name>
+		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Field</name>
+		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Method</name>
+		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Constructor</name>
+		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<color>white</color>
+	</materi>
+</node>
+<node> 
+	<title>Agregasi dan Komposisi</title>
+	<materi>
+		<name>Diagram Kelas</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Hubungan Antar Kelas</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+</node>
+<node> 
+	<title>Inheritance dan Polymorfisme</title>
+	<materi>
+		<name>Inheritance</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Polymorfisme</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+</node>
+<node> 
+	<title>Interface dan Abstract</title>
+	<materi>
+		<name>Interface</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Kelas Abstrak</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Keyword super</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+</node>
+<node> 
+	<title>Exception</title>
+	<materi>
+		<name>Exception</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Try</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Catch</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Finally</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Throw</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Throws</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+</node>
+<node> 
+	<title>Multithreading</title>
+	<materi>
+		<name>Thread</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Subclassing Thread</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Metode pada Thread</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Sinkronisasi Thread</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+</node>
+<node> 
+	<title>Graphical User Interface(GUI)</title>
+	<materi>
+		<name>AWT dan Swing</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Komponen AWT</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Komponen Swing</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Top Level Container</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Pengaturan Layout</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Event Handling</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+</node>
+<node> 
+	<title>JDBC</title>
+	<materi>
+		<name>JDBC (Java Database Connectivity)</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+
 </node>
