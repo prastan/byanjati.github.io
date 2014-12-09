@@ -13,17 +13,17 @@
 	</materi>
 	<materi>
 		<name>Tipe Data, Variabel dan Konstanta</name>
-		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<url>http://susi.staff.jak-stik.ac.id/files/pemrograman-java[1].pdf</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Variabel Array</name>
-		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<url>http://muhammadlundy.blogspot.com/2013/10/penerapan-array-pada-pemograman.html</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Operator, Pernyataan Kondisional, dan Perulangan</name>
-		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<url>http://www.kompikita.net/2012/04/fungsi-if-switch-for-while-do-while.html</url>
 		<color>white</color>
 	</materi>
 </node>
@@ -31,27 +31,27 @@
 	<title>Konsep Dasar Pemrograman Berorientasi Objek</title>
 	<materi>
 		<name>Karakteristik OOP</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://catatanku15.blogspot.com/2012/10/tugas-oop-2-karakteristik-pemrograman.html</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Kelas</name>
-		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<url>http://blogciqwan.net/code-desktop/code-java/dasar-pemrograman-berorientasi-objek-pbo</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Field</name>
-		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<url>http://blogciqwan.net/code-desktop/code-java/dasar-pemrograman-berorientasi-objek-pbo</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Method</name>
-		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<url>http://blogciqwan.net/code-desktop/code-java/dasar-pemrograman-berorientasi-objek-pbo</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Constructor</name>
-		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<url>http://blogciqwan.net/code-desktop/code-java/dasar-pemrograman-berorientasi-objek-pbo</url>
 		<color>white</color>
 	</materi>
 </node>
@@ -59,12 +59,12 @@
 	<title>Agregasi dan Komposisi</title>
 	<materi>
 		<name>Diagram Kelas</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://peterdraw.wordpress.com/2011/10/30/konsep-ooad-object-oriented-analysis-design/</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Hubungan Antar Kelas</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://denisulistio.students.uii.ac.id/2012/12/06/multiclass-dan-relasi-pada-pemrograman-berorientasi-objek/</url>
 		<color>white</color>
 	</materi>
 </node>
@@ -72,12 +72,12 @@
 	<title>Inheritance dan Polymorfisme</title>
 	<materi>
 		<name>Inheritance</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>https://a114808201105354.wordpress.com/2012/04/25/inheritance-pewarisan-dalam-pemrograman-berorientasi-objek-pbo/</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Polymorfisme</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>https://afathur.wordpress.com/2008/09/14/polimorfisme-dalam-pemrograman-berorientasi-objek/</url>
 		<color>white</color>
 	</materi>
 </node>
@@ -85,17 +85,17 @@
 	<title>Interface dan Abstract</title>
 	<materi>
 		<name>Interface</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://hendry-yanto.blogspot.com/2011/12/pemrograman-berorientasi-objek.html</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Kelas Abstrak</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.techopedia.com/definition/17408/abstract-class</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Keyword super</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.slideshare.net/liroesdy/network-programming-03-pemrograman-java-lanjutan</url>
 		<color>white</color>
 	</materi>
 </node>
@@ -103,32 +103,32 @@
 	<title>Exception</title>
 	<materi>
 		<name>Exception</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.slideshare.net/jurnalkomputer/pemrograman-java-exceptionf</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Try</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.slideshare.net/jurnalkomputer/pemrograman-java-exception</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Catch</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.slideshare.net/jurnalkomputer/pemrograman-java-exception</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Finally</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.slideshare.net/jurnalkomputer/pemrograman-java-exception</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Throw</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.slideshare.net/jurnalkomputer/pemrograman-java-exception</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Throws</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.slideshare.net/jurnalkomputer/pemrograman-java-exception</url>
 		<color>white</color>
 	</materi>
 </node>
@@ -136,22 +136,22 @@
 	<title>Multithreading</title>
 	<materi>
 		<name>Thread</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.slideserve.com/chars/pemrograman-berorientasi-objek</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Subclassing Thread</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.slideserve.com/chars/pemrograman-berorientasi-objek</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Metode pada Thread</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.slideserve.com/chars/pemrograman-berorientasi-objek</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Sinkronisasi Thread</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.slideserve.com/chars/pemrograman-berorientasi-objek</url>
 		<color>white</color>
 	</materi>
 </node>
@@ -159,32 +159,32 @@
 	<title>Graphical User Interface(GUI)</title>
 	<materi>
 		<name>AWT dan Swing</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.informatika.unsyiah.ac.id/viska/pbo/prak-3.pdf</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Komponen AWT</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://didiindra.wordpress.com/tag/pengertian-java/</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Komponen Swing</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://plug2-123110030.blogspot.com/2012/05/laporan-dan-tugas-modul-v-pbo-swing.html</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Top Level Container</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://rharwidyasto.blogspot.com/2014/05/swing-pemrograman-berorientasi-objek.html</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Pengaturan Layout</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://www.scribd.com/doc/86921227/01-Java-GUI</url>
 		<color>white</color>
 	</materi>
 	<materi>
 		<name>Event Handling</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://d4u2iv.blogspot.com/2012/03/event-handling-gui-pada-java.html</url>
 		<color>white</color>
 	</materi>
 </node>
@@ -192,7 +192,7 @@
 	<title>JDBC</title>
 	<materi>
 		<name>JDBC (Java Database Connectivity)</name>
-		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<url>http://midnov.wordpress.com/category/pemrograman-berorientasi-objek/</url>
 		<color>white</color>
 	</materi>
 
